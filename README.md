@@ -17,8 +17,8 @@ github - https://github.com/roo116/redux-store
   
 ## Installation
 To run the code locally, 
-1. clone this repository at https://github.com/roo116/redux-store
-2. in the local repo, go to client folder and run `npm i`.
+1. Clone this repository at https://github.com/roo116/redux-store
+2. In the local repo, go to client folder and run `npm i`.
 3. Go to the server folder and run `npm i`
 
 also, this application relies on [MongoDB](https://mongodb.com)
