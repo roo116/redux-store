@@ -5,6 +5,9 @@
   
 ## Project Description
 Welcome to our Redux-Store. Order something cool, and enjoy the browsing pleasure of the redux experience.  
+
+Application link - https://gentle-reef-51483.herokuapp.com/  
+github - https://github.com/roo116/redux-store
   
 ## Table of Contents
   - [Installation](#installation)
